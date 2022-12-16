@@ -18,7 +18,7 @@ A simple to-do list app built with very basic Node.js + Express + MongoDB.
 <h3>New task</h3>
 <img src="./public/img/newTask.png">
 
-<h3>Edit task</h3>
+<h3>Tasks</h3>
 <img src="./public/img/task.png">
 
 
