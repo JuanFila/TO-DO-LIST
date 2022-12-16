@@ -13,13 +13,13 @@ A simple to-do list app built with very basic Node.js + Express + MongoDB.
 <img src="./public/img/newList.PNG">
 
 <h3>Edit List</h3>
-<img src="./public/img/EditList.PNG">
+<img src="./public/img/EditList.png">
 
 <h3>New task</h3>
-<img src="./public/img/newTask.PNG">
+<img src="./public/img/newTask.png">
 
 <h3>Edit task</h3>
-<img src="./public/img/task.PNG">
+<img src="./public/img/task.png">
 
 
 
@@ -41,3 +41,5 @@ Once you have your MongoDB service running you can simply do:
 ```$ cd to-do-list-node```
 
 ```$ npm install && npm run dev```
+
+
